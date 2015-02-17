@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Moneypot"
+	"author_name" "Fixed by mindfulhacker"
+	"info" " { 	"description": "Description", 	"type": "tool", 	"tags":  	[ 		"roleplay", 		"build" 	] }"
+}
